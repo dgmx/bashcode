@@ -1,41 +1,41 @@
-# Bash Exercises Repository
+# Repositorio de Ejercicios de Bash
 
-This repository contains a collection of Bash shell script exercises organized by topic.
+Este repositorio contiene una colección de ejercicios de scripts de shell Bash organizados por tema.
 
-## Directory Structure
+## Estructura de Directorios
 
-- `argumentos`: Exercises related to handling command-line arguments.
-- `arrays`: Exercises working with arrays in Bash.
-- `bucles`: Exercises on loops (for, while, until).
-- `case`: Exercises using case statements.
-- `condicional`: Exercises on conditional statements (if, else).
-- `ficheros`: Exercises dealing with file operations.
-- `funciones`: Exercises on defining and using functions.
-- `input-output`: Exercises on input and output operations.
-- `ip`: Exercises related to IP address manipulation or networking.
-- `menu`: Exercises creating menu-driven scripts.
-- `pdf`: Possibly exercises related to PDF handling (if any).
-- `pruebas`: Exercises for testing or practice.
-- `texto`: Exercises for text processing.
+- `argumentos`: Ejercicios relacionados con el manejo de argumentos de línea de comandos.
+- `arrays`: Ejercicios que trabajan con arrays en Bash.
+- `bucles`: Ejercicios sobre bucles (for, while, until).
+- `case`: Ejercicios que utilizan sentencias case.
+- `condicional`: Ejercicios sobre sentencias condicionales (if, else).
+- `ficheros`: Ejercicios que tratan operaciones con archivos.
+- `funciones`: Ejercicios sobre la definición y uso de funciones.
+- `input-output`: Ejercicios sobre operaciones de entrada y salida.
+- `ip`: Ejercicios relacionados con la manipulación de direcciones IP o redes.
+- `menu`: Ejercicios que crean scripts con menús.
+- `pdf`: Posiblemente ejercicios relacionados con el manejo de PDF (si los hay).
+- `pruebas`: Ejercicios para testing o práctica.
+- `texto`: Ejercicios para procesamiento de texto.
 
-Additionally, there is an `ejerciciosShell.md` file that provides a detailed list of exercises by category.
+Además, existe un archivo `ejerciciosShell.md` que proporciona una lista detallada de ejercicios por categoría.
 
-## How to Use
+## Cómo Usarlo
 
-Each directory contains one or more Bash scripts that demonstrate the concepts for that topic.
-To run a script, navigate to the directory and execute it with Bash (ensuring you have the correct shebang).
+Cada directorio contiene uno o más scripts de Bash que demuestran los conceptos para ese tema.
+Para ejecutar un script, navegue hasta el directorio y ejecútelo con Bash (asegurándose de tener el shebang correcto).
 
-Note: The scripts are written for GNU Bash version 5.3.9 or later.
+Nota: Los scripts están escritos para la versión de GNU Bash 5.3.9 o superior.
 
-## Requirements
+## Requisitos
 
-- GNU Bash (version 5.3.9 or later recommended)
-- Some scripts may require specific utilities (like `clear`, `read`, etc.) which are standard in most Unix-like systems.
+- GNU Bash (versión 5.3.9 o superior recomendada)
+- Algunos scripts pueden requerir utilidades específicas (como `clear`, `read`, etc.) que son estándar en la mayoría de los sistemas similares a Unix.
 
-## Contributing
+## Contribuir
 
-Feel free to fork this repository and add more exercises or improve existing ones.
+Siéntase libre de hacer un fork de este repositorio y agregar más ejercicios o mejorar los existentes.
 
-## License
+## Licencia
 
-This repository is open-source and available under the MIT License.
+Este repositorio es de código abierto y está disponible bajo la Licencia MIT.
